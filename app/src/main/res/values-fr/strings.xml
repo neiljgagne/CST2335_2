@@ -3,5 +3,9 @@
 
     <string name="hello_message">Bonjour!"</string>
     <string name="ButtonText">Je suis un button</string>
+    <string name="Login">Ouvrir</string>
+    <string name="LoginHint">Nom d\'Ouvrir"</string>
+    <string name="Password">Motte de Passe</string>
+    <string name="PasswordHint">Enter Motte de Passe</string>
 
 </resources>
